@@ -8,10 +8,10 @@ Program designed to take in a large text file of DNA sequences and parse each se
 The program also outputs the resulting DNA sequences in a format that is easily interpreted by NCBI's BLAST tools.
 
 Database:
-  -Directory containing all the DNA sequences in a text file as a database for the program
+- Directory containing all the DNA sequences in a text file as a database for the program
 
 Output:
-  -Directory to store the output of the program in a text file
+- Directory to store the output of the program in a text file
 
 src:
-  -Directory containing all the source code in Java
+- Directory containing all the source code in Java
